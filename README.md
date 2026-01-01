@@ -1,4 +1,5 @@
 Photographer’s Marketplace
+
 📸 Project Overview
 
 Photographer’s Marketplace is a full-stack web application that allows photographers to upload, showcase, and sell photographs, while buyers can browse, view, and purchase high-quality images through a simple and secure platform.
