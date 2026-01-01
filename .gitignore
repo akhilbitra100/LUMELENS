@@ -15,3 +15,8 @@ front/.env.local
 # Editor files
 .vscode/
 .DS_Store
+
+# Backend node modules and env
+back/node_modules/
+back/.env
+
